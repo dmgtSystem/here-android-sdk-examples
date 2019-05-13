@@ -1,4 +1,4 @@
-# Map Positioning Venues And Logging
+# BCX
 
 ## Prerequisites
 
@@ -6,7 +6,7 @@ Update manifest file with proper license key as described above in root [README 
 
 ## Purpose
 
-Example how to use venues and indoor positioning. 
+Example how to use venues and indoor positioning.
 More details in [Positioning Documentation](https://developer.here.com/documentation/android-premium/dev_guide/topics/positioning-intro.html).
 
 
